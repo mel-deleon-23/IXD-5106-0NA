@@ -1,2 +1,2 @@
 # IXD-5106-0NA
-Intro to Interaction Design class
+Repo to store files from IXD-5106-0NA
